@@ -69,4 +69,9 @@ footer{
   height:100px;
   background-color:darkslategrey;
   margin: 0 0 0 0;
+  position: absolute;
+  bottom: 0;
+}
+button{
+  margin-top:10px;
 }
